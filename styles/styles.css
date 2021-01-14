@@ -921,7 +921,7 @@ input[type=checkbox] {
 }
 
 .conutry_1 {
-  background-image: url("../../dist/images/render-1477041_1280.jpg");
+  background-image: url("./../images/render-1477041_1280.jpg");
   background-position: 0 97%;
 }
 @media screen and (max-width: 1200px) and (min-width: 997px) {
