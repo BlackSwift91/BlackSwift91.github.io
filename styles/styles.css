@@ -509,7 +509,7 @@ input[type=checkbox] {
 
 .about_us {
   position: relative;
-  background-image: url("../../images/pexels-photo-134638.jpg");
+  background-image: url("../images/pexels-photo-134638.jpg");
   background-position: 0 17%;
   background-size: 1770px;
   z-index: 1;
@@ -1062,7 +1062,7 @@ input[type=checkbox] {
 
 .review_section {
   position: relative;
-  background-image: url("../../dist/images/pexels-photo-131756.jpg");
+  background-image: url("./../images/pexels-photo-131756.jpg");
   height: 730px;
   background-position: 0 49%;
   z-index: 0;
