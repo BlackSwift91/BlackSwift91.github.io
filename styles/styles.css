@@ -509,7 +509,7 @@ input[type=checkbox] {
 
 .about_us {
   position: relative;
-  background-image: url("../images/pexels-photo-134638.jpg");
+  background-image: url("./../images/pexels-photo-131756.jpg");
   background-position: 0 17%;
   background-size: 1770px;
   z-index: 1;
@@ -921,7 +921,7 @@ input[type=checkbox] {
 }
 
 .conutry_1 {
-  background-image: url("./../images/render-1477041_1280.jpg");
+  background-image: url("./../images/pexels-photo-131756.jpg");
   background-position: 0 97%;
 }
 @media screen and (max-width: 1200px) and (min-width: 997px) {
